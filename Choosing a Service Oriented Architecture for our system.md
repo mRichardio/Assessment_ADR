@@ -12,7 +12,7 @@ We are building a complaint management system which will be used by multiple dif
 
 ## Decision Outcome
 
-Chosen option: "Service Oriented Architecture"", because it is the only option that ticks the boxes on, scalability, multi-tenancy, extensibility and availability all at one. This would be more complex though compared to something like a three-tier design, but would provide the flexibility needed to incorporate future features, such as a chat bot and would help in supporting the growing user count and overall large user load that will be put on the system. Overall, it comes out best when thinking about scalability, extensibility and ticking the boxes of the stakeholders.
+Chosen option: "Service Oriented Architecture", because it is the only option that ticks the boxes on, scalability, multi-tenancy, extensibility and availability all at one. This would be more complex though compared to something like a three-tier design, but would provide the flexibility needed to incorporate future features, such as a chat bot and would help in supporting the growing user count and overall large user load that will be put on the system. Overall, it comes out best when thinking about scalability, extensibility and ticking the boxes of the stakeholders.
 
 ### Consequences
 
