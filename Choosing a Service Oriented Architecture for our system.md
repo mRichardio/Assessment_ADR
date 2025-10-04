@@ -2,7 +2,7 @@
 
 ## Context and Problem Statement
 
-We are building a complaint management system which will be used by multiple different banks and a few different industries. We need to decide what the best architecture would be to use for a system like this. We would also need to consider the our projected users for this system, which should be a substantial amount as if we look at Barclarlys alone, they house 20 million customers within the UK.
+We are building a complaint management system (CMS) which will be used by multiple different banks and potentially other industries. The system will need to handle millions of users (e.g. Barclays investor update states 20 million customers in the UK) but still keeping the system scalable, having proper multi tenancy and being extensible. A decision will need to be made on what architecture style would be suitable for this system.
 
 ## Considered Options
 
