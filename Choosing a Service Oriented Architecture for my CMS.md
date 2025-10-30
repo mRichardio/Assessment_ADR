@@ -1,8 +1,8 @@
-# Choosing a Service Oriented Architecture for our system
+# Choosing a Service Oriented Architecture for my system
 
 ## Context and Problem Statement
 
-We are building a complaint management system (CMS) which will be used by multiple different banks and potentially other industries. The system will need to handle millions of users (e.g. Barclays investor update states 20 million customers in the UK) but still keeping the system scalable, having proper multi tenancy and being extensible. A decision will need to be made on what architecture style would be suitable for this system.
+I am building a complaint management system (CMS) which will be used by multiple different banks and potentially other industries. The system will need to handle millions of users (e.g. Barclays investor update states 20 million customers in the UK) but still keeping the system scalable, having proper multi tenancy and being extensible. A decision will need to be made on what architecture style would be suitable for this system.
 
 ## Considered Options
 
